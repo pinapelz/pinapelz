@@ -21,11 +21,3 @@
   <img src="https://raw.githubusercontent.com/pinapelz/pinapelz/main/profile-3d-contrib/profile-green-animate.svg" alt="Contributions Graph" width="800"/>
   <br>
 </p>
-
-
-
-# 🌸 My recent AniList activity
-
-<!-- ANILIST_ACTIVITY:start -->
-
-<!-- ANILIST_ACTIVITY:end -->
