@@ -46,7 +46,10 @@
 
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through Discord at Pinapelz#2232</p>
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+<a href="https://discordapp.com">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 
 
 <h2>Statistics</h2>
