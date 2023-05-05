@@ -22,8 +22,10 @@
   <br>
 </p>
 
+
+
+# 🌸 My recent AniList activity
+
 <!-- ANILIST_ACTIVITY:start -->
-
-
 
 <!-- ANILIST_ACTIVITY:end -->
