@@ -9,12 +9,45 @@
   <p>All I ever do is play MMOs and I'm sure you'll figure out the other thing I enjoy doing soon enough</p>
   <p>You can find some of the things I waste time doing pinned down below and also under the repositories tab</p>
 </div>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/21994085/236538532-d2bb858b-5040-4895-9c36-e7e393e65e1f.png" alt="abanner" width="800"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/21994085/236538532-d2bb858b-5040-4895-9c36-e7e393e65e1f.png" alt="abanner" width="800"/>
+  <p>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+              <strong><a href="https://github.com/pinapelz/nijitrack">Nijitrack</a></strong>
+          </td>
+          <td>
+            Scuffed Python scripts to help record historical subscriber data for YouTube Channels.<br>
+            Currently deployed for Nijisanji <a href="https://nijitracker.com/">here</a> 
+          </td>
+        </tr>
+        <tr>
+        <td>
+            <strong><a href="https://github.com/pinapelz/ytmp3AutoTag">YTMP3AutoTag</a></strong>
+        </td>
+        <td>
+        A JSwing based GUI that uses yt-dlp to download and automatically tag mp3 files
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <strong><a href="https://github.com/pinapelz/JHolodex/">JHolodex</a></strong>
+        </td>
+        <td>
+        Object oriented Java Holodex Wrapper
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </p>
+</div>
+
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through Discord at Pinapelz#2232</p>
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+
 
 <h2>Statistics</h2>
 <p align="center">
