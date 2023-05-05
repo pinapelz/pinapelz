@@ -18,6 +18,6 @@
 
 <h2>Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&hide=makefile&layout=compact" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/pinapelz/pinapelz/main/profile-3d-contrib/profile-green-animate.svg" alt="Contributions Graph" width="800"/>
   <br>
 </p>
