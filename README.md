@@ -53,7 +53,7 @@
 
 
 <h2>Statistics</h2>
-<p align="center">
+<div style="display: flex; flex-direction: row;">
   <img src="https://raw.githubusercontent.com/pinapelz/pinapelz/main/profile-3d-contrib/profile-green-animate.svg" alt="Contributions Graph" width="800"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&langs_count=8&hide=makefile" width="393"/>
-</p>
+</div>
