@@ -5,7 +5,6 @@
 
 <h2>About Me</h2>
 <div style="margin-top: 20px; margin-bottom: 20px;">
-  <p>Nearly all the games I play are MMOs and I'm sure you'll figure out the other thing I enjoy doing soon enough</p>
   <p>You can find some of the other things I do pinned down below and also under the repositories tab</p>
 </div>
 <div align="center">
