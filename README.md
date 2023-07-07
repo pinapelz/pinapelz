@@ -37,6 +37,14 @@
         Object oriented Java Holodex Wrapper
         </td>
       </tr>
+      <tr>
+        <td>
+            <strong><a href="https://github.com/pinapelz/Video-Archive-Server">Video-Archive-Server</a></strong>
+        </td>
+        <td>
+        A way to easily archive videos and then host them through a simple web interface
+        </td>
+      </tr>
       </tbody>
     </table>
   </p>
