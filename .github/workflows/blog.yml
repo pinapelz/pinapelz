@@ -1,9 +1,10 @@
-name: Update this repo's README
+name: Update Blog RSS Feed
 
 on:
   schedule:
     # Once a day at 8 AM
     - cron: 0 8 * * *
+  workflow_dispatch:
 
 jobs:
   update:
