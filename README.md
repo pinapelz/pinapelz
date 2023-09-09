@@ -12,21 +12,9 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/21994085/236538532-d2bb858b-5040-4895-9c36-e7e393e65e1f.png" alt="abanner" width="800"/>
   <h3>Below is a LittleLink hub to to some of my stuff</h3>
-  <style>
-    .button {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    font-size: 1rem;
-    font-weight: 600;
-    text-align: center;
-    text-decoration: none;
-    color: #fff;
-    background-color: #8b5f4d;
-    border-radius: 0.25rem;
-    transition: background-color 0.2s ease-in-out;
-    }
-  </style>
-  <a class="button button-default" href="https://pinapelz.com" rel="noopener" role="button"><img class="icon" src="images/icons/generic-website.svg" alt="">pinapelz.moe</a>
+  <a href="https://pinapelz.com">
+    <img src="https://img.shields.io/badge/pinapelz.moe-moe-8b5f4d?style=for-the-badge&logo=web&logoColor=white" alt="Pinapelz">
+  </a>
 </div>
 
 <h2>Contact</h2>
