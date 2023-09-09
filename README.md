@@ -12,7 +12,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/21994085/236538532-d2bb858b-5040-4895-9c36-e7e393e65e1f.png" alt="abanner" width="800"/>
   <h3>Below is a LittleLink hub to to some of my stuff</h3>
-  <a href="https://pinapelz.com">
+  <a href="https://pinapelz.moe">
     <img src="https://img.shields.io/badge/pinapelz.moe-moe-8b5f4d?style=for-the-badge&logo=web&logoColor=white" alt="Pinapelz">
   </a>
 </div>
