@@ -26,11 +26,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
-* [Archiving 8000 VTuber Songs and Music Covers (and counting) - Part 1: The Introduction](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;patchwork-posts&#x2F;patchwork-archive-1&#x2F;)
-* [Archiving 8000 VTuber Songs and Music Covers (and counting) - Part 2: Archiving](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;patchwork-posts&#x2F;patchwork-archive-2&#x2F;)
-* [Archiving 8000 VTuber Songs and Music Covers (and counting) - Part 3: Storage and Serving](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;patchwork-posts&#x2F;patchwork-archive-3&#x2F;)
-* [Archiving 8000 VTuber Songs and Music Covers (and counting) - Part 4: Workflow and Web UI](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;patchwork-posts&#x2F;patchwork-archive-4&#x2F;)
+* [Entering the Gilded Araya Early, FFXIV Server Emulation](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;ffxiv-gilded-araya&#x2F;)
+* [Unleashing the Chat Wizardry: Auto-Replying to Discord Messages](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;discord-auto-reply&#x2F;)
+* [Yunohost, a Docker for end users? A possible future for self-hosting](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;yunohost-docker-for-enduser&#x2F;)
 * [Testing out Cloudflare D1 and Making a Link Shortener](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;cf-worker-shortener&#x2F;)
+* [Archiving 8000 VTuber Songs and Music Covers (and counting) - Part 3: Storage and Serving](https:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;patchwork-posts&#x2F;patchwork-archive-3&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
