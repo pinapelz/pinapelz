@@ -26,11 +26,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [YouTube Live Timestamping Tools](http:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;youtube-live-timestamping&#x2F;)
 * [Entering the Gilded Araya Early, FFXIV Server Emulation](http:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;ffxiv-gilded-araya&#x2F;)
 * [Unleashing the Chat Wizardry: Auto-Replying to Discord Messages](http:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;discord-auto-reply&#x2F;)
 * [Yunohost, a Docker for end users? A possible future for self-hosting](http:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;yunohost-docker-for-enduser&#x2F;)
 * [Testing out Cloudflare D1 and Making a Link Shortener](http:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;cf-worker-shortener&#x2F;)
-* [Archiving 8000 VTuber Songs and Music Covers (and counting) - Part 3: Storage and Serving](http:&#x2F;&#x2F;pinapelz.com&#x2F;blog&#x2F;patchwork-posts&#x2F;patchwork-archive-3&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
