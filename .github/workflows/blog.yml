@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://pinapelz.com/rss.xml
+          feed-url: https://blog.pinapelz.com/rss.xml
           readme-section: feed
