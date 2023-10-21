@@ -7,15 +7,15 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Patchwork-Archive/Patchwork-Backend/assets/21994085/98b386ee-ff9e-4f15-9def-38c2b274c53c" alt="Cool Image" style="width: 200px; height: 200px; border-radius: 50%; margin-bottom: 10px">
-</div>
+<p align="center">
+  <img src="https://github.com/Patchwork-Archive/Patchwork-Backend/assets/21994085/98b386ee-ff9e-4f15-9def-38c2b274c53c" alt="Cool Image" width="200" height="200">
+</p>
 
-<div style="font-size: 18px" align="center">
+<h3 align="center">
   <a href="https://pinapelz.com">Website</a> •
   <a href="https://blog.pinapelz.moe">Blog</a> •
   <a href="https://pinapelz.moe">Littelink</a>
-</div>
+</h3>
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through Discord: <code>@pinapelz</code></p>
 <a href="https://discord.com/users/246787839570739211">
