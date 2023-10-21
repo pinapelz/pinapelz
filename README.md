@@ -3,12 +3,14 @@
 </p>
 <div style="margin-top: 10px; margin-bottom: 10px;">
   <p>
-  Welcome to my Github! In the pinned repositories below you'll find some of the interesting things I've worked on. For a more concrete list and more information, check out my website.  
+  Welcome to my Github! In the pinned repositories below you'll find some of the interesting things I've worked on. For a more concrete list and more information, check out my website.
+
+  and of course, it just isn't open source if there isn't some anime imagery...
   </p>
 </div>
 
 <p align="center">
-  <img src="https://github.com/Patchwork-Archive/Patchwork-Backend/assets/21994085/98b386ee-ff9e-4f15-9def-38c2b274c53c" alt="Cool Image" width="200" height="200">
+  <img src="https://files.catbox.moe/279gmm.png" alt="Cool Image" width="200" height="200">
 </p>
 
 <h3 align="center">
