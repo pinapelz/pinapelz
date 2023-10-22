@@ -18,9 +18,7 @@
   <a href="https://blog.pinapelz.com">Blog</a> •
   <a href="https://pinapelz.moe">Littelink</a>
 </h3>
-<h3 align="center">
-<a href="https://pinapelz.com/contributions/">Open Source Contribution</a>
-  </h3>
+
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through Discord: <code>@pinapelz</code></p>
 <a href="https://discord.com/users/246787839570739211">
@@ -47,3 +45,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&langs_count=12&card_width=320&layout=compact" />
 </a>
 </p>
+<h3 align="center">
+<a href="https://pinapelz.com/contributions/">Open Source Contribution</a>
+  </h3>
