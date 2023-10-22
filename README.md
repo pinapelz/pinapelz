@@ -27,11 +27,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [Running Jagex Launcher and Runelite on Arch Linux](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;jagex-launcher-runelite-on-arch&#x2F;)
 * [YouTube Live Timestamping Tools](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;youtube-live-timestamping&#x2F;)
 * [Entering the Gilded Araya Early, FFXIV Server Emulation](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-gilded-araya&#x2F;)
 * [Unleashing the Chat Wizardry: Auto-Replying to Discord Messages](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;discord-auto-reply&#x2F;)
 * [Yunohost, a Docker for end users? A possible future for self-hosting](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;yunohost-docker-for-enduser&#x2F;)
-* [Testing out Cloudflare D1 and Making a Link Shortener](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;cf-worker-shortener&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
