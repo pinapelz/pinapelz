@@ -44,3 +44,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&langs_count=12&card_width=320&layout=compact" />
 </a>
 </p>
+Open Source Contributions: https://pinapelz.com/contributions/
