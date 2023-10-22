@@ -36,7 +36,11 @@
 
 <h2>Statistics</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pinapelz/pinapelz/main/profile-3d-contrib/profile-green-animate.svg" alt="Contributions Graph" width="800"/>
+  <img src="https://raw.githubusercontent.com/pinapelz/pinapelz/main/profile-3d-contrib/profile-green-animate.svg" alt="Contributions Graph" width="730"/>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pinapelz&rank_icon=github" />
+</a>
+<a href="">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&langs_count=12&card_width=320&layout=compact" />
+</a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&size_weight=0.5&count_weight=0.5&langs_count=7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
