@@ -28,11 +28,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [Fix: Rebuild Windows EFI](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;repairing-windows-efi&#x2F;)
 * [2024, the year of the Linux Desktop](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;2024-year-of-the-linux-desktop&#x2F;)
 * [Running Jagex Launcher and Runelite on Arch Linux](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;jagex-launcher-runelite-on-arch&#x2F;)
 * [YouTube Live Timestamping Tools](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;youtube-live-timestamping&#x2F;)
 * [Entering the Gilded Araya Early, FFXIV Server Emulation](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-gilded-araya&#x2F;)
-* [Unleashing the Chat Wizardry: Auto-Replying to Discord Messages](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;discord-auto-reply&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
