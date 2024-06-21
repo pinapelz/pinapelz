@@ -28,11 +28,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [A Comparison: Kernel-level Virtual Machine Part 1](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;linux&#x2F;kvm&#x2F;kvm-part1&#x2F;)
 * [Fix: Recovering from an interrupted pacman upgrade](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;recovering-interrupted-pacman-upgrade&#x2F;)
 * [Fix: Rebuild Windows EFI](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;repairing-windows-efi&#x2F;)
+* [2024, the year of the Linux Desktop](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;linux&#x2F;2024-year-of-the-linux-desktop&#x2F;)
 * [Running Jagex Launcher and Runelite on Arch Linux](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;jagex-launcher-runelite-on-arch&#x2F;)
-* [YouTube Live Timestamping Tools](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;youtube-live-timestamping&#x2F;)
-* [Entering the Gilded Araya Early, FFXIV Server Emulation](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-gilded-araya&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
