@@ -28,11 +28,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [Mojibake. What is it?](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;mojibake&#x2F;)
 * [A LRC + YouTube TimedText Karaoke Player](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;lrc-player&#x2F;)
 * [A Comparison: Kernel-level Virtual Machine Part 1](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;linux&#x2F;kvm&#x2F;kvm-part1&#x2F;)
 * [Fix: Recovering from an interrupted pacman upgrade](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;recovering-interrupted-pacman-upgrade&#x2F;)
 * [Fix: Rebuild Windows EFI](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;repairing-windows-efi&#x2F;)
-* [2024, the year of the Linux Desktop](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;linux&#x2F;2024-year-of-the-linux-desktop&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
