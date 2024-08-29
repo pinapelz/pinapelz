@@ -1,23 +1,15 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/21994085/236544496-9f39ccee-f293-4f09-90de-931b23638f8f.png"/>
 </p>
-<div style="margin-top: 10px; margin-bottom: 10px;">
-  <p>
-  Welcome to my Github! In the pinned repositories below you'll find some of the interesting things I've worked on. For a more concrete list and more information, check out my website.
-
-  and of course, it just isn't open source if there isn't some anime imagery...
-  </p>
-</div>
-
-<p align="center">
-  <img src="https://files.catbox.moe/279gmm.png" alt="Cool Image" width="200" height="200">
-</p>
-
 <h3 align="center">
   <a href="https://pinapelz.com">Website</a> •
   <a href="https://blog.pinapelz.com">Blog</a> •
   <a href="https://pinapelz.moe">Littelink</a>
 </h3>
+<div style="margin-top: 10px; margin-bottom: 10px;">
+  <p>
+  Welcome to my Github! In the pinned repositories below you'll find some of the interesting things I've worked on.
+</div>
 
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through Discord: <code>@pinapelz</code></p>
