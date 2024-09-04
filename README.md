@@ -34,7 +34,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pinapelz&rank_icon=github" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&langs_count=12&card_width=320&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&langs_count=12&card_width=320&layout=compact&hide=makefile,qml,markdown,shell,mdx" />
 </a>
 </p>
 <h3 align="center">
