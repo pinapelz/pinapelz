@@ -20,11 +20,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [FFXIV - Frontline PVP Losing Bonus](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-frontline-bonus&#x2F;)
 * [FFXIV - Actually Making Gil Without Crafting](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-gil-making&#x2F;)
 * [Mojibake. What is it?](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;mojibake&#x2F;)
 * [A LRC + YouTube TimedText Karaoke Player](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;lrc-player&#x2F;)
 * [A Comparison: Kernel-level Virtual Machine Part 1](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;linux&#x2F;kvm&#x2F;kvm-part1&#x2F;)
-* [Fix: Recovering from an interrupted pacman upgrade](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;recovering-interrupted-pacman-upgrade&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
