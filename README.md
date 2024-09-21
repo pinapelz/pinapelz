@@ -20,7 +20,7 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
-* [FFXIV - Frontline PVP Losing Bonus](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-frontline-bonus&#x2F;)
+* [FFXIV - Quirks of the PVP System](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-frontline-bonus&#x2F;)
 * [FFXIV - Actually Making Gil Without Crafting](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-gil-making&#x2F;)
 * [Mojibake. What is it?](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;mojibake&#x2F;)
 * [A LRC + YouTube TimedText Karaoke Player](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;lrc-player&#x2F;)
