@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">
   <a href="https://pinapelz.com">Website</a> •
-  <a href="https://blog.pinapelz.com">Blog</a> •
+  <a href="https://blog.pinapelz.com">Blog</a> 
 </h3>
 <div style="margin-top: 10px; margin-bottom: 10px;">
   <p>
