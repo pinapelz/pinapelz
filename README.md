@@ -36,5 +36,3 @@
 </a>
 </p>
 <h3 align="center">
-<a href="https://pinapelz.com/contributions/">Open Source Contribution</a>
-  </h3>
