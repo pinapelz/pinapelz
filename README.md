@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/21994085/236544496-9f39ccee-f293-4f09-90de-931b23638f8f.png"/>
 </p>
 <h3 align="center">
-  <a href="https://pinapelz.com">Website</a> •
+  <a href="https://pinapelz.com">Website</a>
 </h3>
 <div style="margin-top: 10px; margin-bottom: 10px;">
   <p>
