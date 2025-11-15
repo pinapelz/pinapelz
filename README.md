@@ -18,11 +18,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [Become a Mechanical Luddite](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;the-mechanical-luddite&#x2F;)
 * [Is xQc&#39;s AMD CPU holding him back from taking back the Minecraft record](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;xqc-amd-seeds&#x2F;)
 * [Running a Minecraft server for &quot;free&quot;](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;mc-server-selfhost&#x2F;)
 * [An English Guide&#x2F;Intro to UMIGURI, a CHUNITHM simulator](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;umiguri&#x2F;)
 * [The Year 11779 Oshi Mark Problem](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;the-oshimark-problem&#x2F;)
-* [FFXIV - Quirks of the PVP System](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;ffxiv-frontline-bonus&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
