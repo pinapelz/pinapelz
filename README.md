@@ -1,3 +1,4 @@
+<link rel="me" href="https://micro.pinapelz.moe/">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/21994085/236544496-9f39ccee-f293-4f09-90de-931b23638f8f.png"/>
 </p>
