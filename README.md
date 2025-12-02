@@ -3,6 +3,7 @@
 </p>
 <h3 align="center">
   <a href="https://pinapelz.com">Website</a>
+  •
   <a href="https://micro.pinapelz.moe">Microblog</a>
 </h3>
 <div style="margin-top: 10px; margin-bottom: 10px;">
