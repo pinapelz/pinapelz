@@ -14,6 +14,7 @@
 
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through Discord: <code>@pinapelz</code></p>
+<p>or send me an email</p>
 <a href="https://discord.com/users/246787839570739211">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
