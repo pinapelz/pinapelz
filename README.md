@@ -12,6 +12,8 @@
   Welcome to my Github! In the pinned repositories below you'll find some of the interesting things I've worked on.
 </div>
 
+Some project are available only over on https://git.moekyun.me/
+
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through the e-mail shown on the sidebar</p>
 
