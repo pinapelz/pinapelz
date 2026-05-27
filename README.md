@@ -5,14 +5,15 @@
 <h3 align="center">
   <a href="https://pinapelz.com">Website</a>
   •
-  <a rel="me" href="https://micro.pinapelz.moe/">Microblog</a>
+  <a rel="me" href="https://git.moekyun.me/">cgit</a>
 </h3>
 <div style="margin-top: 10px; margin-bottom: 10px;">
   <p>
-  Welcome to my Github! In the pinned repositories below you'll find some of the interesting things I've worked on.
+  Welcome to my GitHub! In the pinned repositories below you'll find some of the interesting things I've worked on. <br/>
 </div>
 
-Some project are available only over on https://git.moekyun.me/
+> [!IMPORTANT]
+> Some code/repos are not available on GitHub for various reasons or at the request of the original author. Please visit the cgit instance at https://git.moekyun.me
 
 <h2>Contact</h2>
 <p>If you for some reason need to reach me, the best way to do so is through the e-mail shown on the sidebar</p>
@@ -20,7 +21,6 @@ Some project are available only over on https://git.moekyun.me/
 | Platform | Username |
 | --- | ----------- |
 |  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/> | `@pinapelz` |
-| <img src="https://img.shields.io/badge/TeamSpeak 6-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white"/>  | `@pinapelz@myteamspeak.com` |
 | <img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white"/>  | `@pinapelz@chat.moekyun.me` |
 
 ## Recent [Blog](https://pinapelz.com) Posts:
@@ -36,11 +36,5 @@ Some project are available only over on https://git.moekyun.me/
 <h2>Statistics</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/pinapelz/pinapelz/main/profile-3d-contrib/profile-green-animate.svg" alt="Contributions Graph" width="730"/>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pinapelz&rank_icon=github" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinapelz&langs_count=12&card_width=320&layout=compact&hide=qml,shell,html,css,powershell,yaml,json,batchfile,procfile,c,makefile" />
-</a>
 </p>
 <h3 align="center">
