@@ -26,11 +26,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [Microblog Unification](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;micro-blog-merged&#x2F;)
 * [Self-hosting Software](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;what-to-selfhost&#x2F;)
-* [Running an Internet Radio Stream from YouTube](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;internet-radio-from-youtube-playlist&#x2F;)
-* [Become a Mechanical Luddite](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;the-mechanical-luddite&#x2F;)
-* [Is xQc&#39;s AMD CPU holding him back from taking back the Minecraft record](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;xqc-amd-seeds&#x2F;)
-* [Running a Minecraft server for &quot;free&quot;](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;mc-server-selfhost&#x2F;)
+* [Portable Audio: Phone, Wireless DAC, or DAP](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;micro&#x2F;13-dac-vs-wireless-dap&#x2F;)
+* [Playlog: April 2026 (No Sleep for Kaname Date, Xenoblade 1 DE, Catherine Full Body)](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;micro&#x2F;12-april-playlog&#x2F;)
+* [Playlog: Hundred Lines Last Defense Academy](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;micro&#x2F;11-hundred-lines-last-defense-playlog&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
