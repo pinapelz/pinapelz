@@ -21,7 +21,8 @@
 | Platform | Username |
 | --- | ----------- |
 |  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/> | `@pinapelz` |
-| <img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white"/>  | `@pinapelz@chat.moekyun.me` |
+| <img src="https://img.shields.io/badge/Matrix (Riot)-000000?style=for-the-badge&logo=matrix&logoColor=white"/>  | `@pinapelz@chat.moekyun.me` |
+| <img src="https://img.shields.io/badge/XMPP (Jabber)-228B22?style=for-the-badge&logo=xmpp&logoColor=white"/> | `pinapelz@xmpp.moekyun.me` |
 
 ## Recent [Blog](https://pinapelz.com) Posts:
 
