@@ -27,11 +27,11 @@
 ## Recent [Blog](https://pinapelz.com) Posts:
 
 <!--START_SECTION:feed-->
+* [A cookie jar for yt-dlp](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;micro&#x2F;15-ytdlp-cookie-jar&#x2F;)
 * [An interesting hashing logical bug (why you should pick a good hash to use)](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;micro&#x2F;14-why-a-good-hash-matters&#x2F;)
 * [Microblog Unification](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;micro-blog-merged&#x2F;)
 * [Self-hosting Software](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;blog&#x2F;what-to-selfhost&#x2F;)
 * [Portable Audio: Phone, Wireless DAC, or DAP](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;micro&#x2F;13-dac-vs-wireless-dap&#x2F;)
-* [Playlog: April 2026 (No Sleep for Kaname Date, Xenoblade 1 DE, Catherine Full Body)](https:&#x2F;&#x2F;blog.pinapelz.com&#x2F;micro&#x2F;12-april-playlog&#x2F;)
 <!--END_SECTION:feed-->
 
 <h2>Statistics</h2>
